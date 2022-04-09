@@ -1,0 +1,3 @@
+file:src/test/resources/features/us5_AddAnyFileToFavorites.feature:4
+file:src/test/resources/features/us6_EditFavoriteFiles.feature:5
+file:src/test/resources/features/us4_AccessingFilesModule.feature:7:11
